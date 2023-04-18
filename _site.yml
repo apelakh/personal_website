@@ -1,6 +1,6 @@
 name: "Avital Pelakh"                                # CHANGE HERE 
 output_dir: "."
-navbar:
+sidebar:
   title: "Avital Pelakh"                             # CHANGE HERE 
   type: inverse
   left:
