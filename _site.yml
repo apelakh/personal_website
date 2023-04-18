@@ -13,15 +13,14 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
-      target: _blank
-    - text: "Blog"
+    - href: https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=2115
+      text: "Blog"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/ 
-      target: _blank # CHANGE HERE OR DELETE ALL 3 LINES 
+      target: _blank 
   right:
-    - text: "Contact me"
+    - href: mailto:avp36@pitt.edu
+      text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:avp36@pitt.edu                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/apelakh       # CHANGE HERE 
