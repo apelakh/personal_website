@@ -14,7 +14,7 @@ navbar:
       icon: fa-file-pdf-o
       href: cv.html
     - href: https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=2115
-      text: "Blog"
+      text: "University Website"
       icon: fa-rss
       target: _blank 
   right:
