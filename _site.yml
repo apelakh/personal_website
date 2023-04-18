@@ -1,7 +1,7 @@
 name: "Avital Pelakh"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Avital Pelakh's Personal Website"                             # CHANGE HERE 
+  title: "Avital Pelakh"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -13,9 +13,11 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
+      target: _blank
     - text: "Blog"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: https://YOURGITHUB.github.io/blog/ 
+      target: _blank # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
